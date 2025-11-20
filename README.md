@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **harshitshesh78@gmail.com** For Collaboration/Project or A
 ![](https://github-profile-trophy.vercel.app/?username=harshitshesh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api?username=harshitshesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshitshesh&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshitshesh&theme=dark&hide_border=true)<br/>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -35,8 +35,9 @@ Email Me 👉 ✉️ **harshitshesh78@gmail.com** For Collaboration/Project or A
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+Consistency turns beginners into builders.
+Turning ideas into logic, and logic into impact
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshitshesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
